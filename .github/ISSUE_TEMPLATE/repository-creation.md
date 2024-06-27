@@ -9,17 +9,17 @@ assignees: MclTTI
 
 # Request for a new repository in the ICSC-CN-HPC-Spoke-4-Earth-Climate GitHub Organization
 
-**Requested by**: <Your Name>
+Requested by: <Your Name>
 
-**Repository name**: <>
-**WP**: <>
-**Task**: <>
+Repository name: <>
+WP: <>
+Task: <>
 
-**Repository manager**: <GitHub username of the repository manager>
-**Collaborators**: [comma separated list of collaborators' GitHub usernames]
+Repository manager: <GitHub username of the repository manager>
+Collaborators: [comma separated list of collaborators' GitHub usernames]
 
-**Visibility**: 
+Visibility: 
 - [ ] Public
 - [ ] Private
 
-**Purpose** (optional): [Provide a brief description of the purpose of the repository]
+Purpose (optional): [Provide a brief description of the purpose of the repository]
