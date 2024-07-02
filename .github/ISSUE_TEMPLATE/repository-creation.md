@@ -2,8 +2,8 @@
 name: Repository Creation
 about: Request the creation of a new repository
 title: "[Repository Creation] - NNNN"
-labels: ''
-assignees: MclTTI
+labels: new_repo
+assignees: agalizia, MclTTI, sandrofioretn
 
 ---
 
