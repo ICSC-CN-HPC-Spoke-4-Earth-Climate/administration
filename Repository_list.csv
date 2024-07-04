@@ -1,0 +1,5 @@
+Issue Number,Title,Node ID,Repository name,WP,Task,Repository manager,Collaborators,Private
+10,[Repository Creation] - test_repo,I_kwDOMO4l_86OPOUC,test_repo,1,1.1,MclTTI,"[MclTTI, agalizia]",True
+11,[Repository Creation] - test_repo_2,I_kwDOMO4l_86OPkVa,test_repo_2,1,1.3,MclTTI,"MclTTI, agalizia",True
+13,[Repository Creation] - test_repo_3,I_kwDOMO4l_86OP2ml,test_repo_3,1,1.2,MclTTI,MclTTI,True
+14,[Repository Creation] - test,I_kwDOMO4l_86Oge3k,test,2,2.3,<GitHub username of the repository manager>,[comma separated list of collaborators' GitHub usernames],False
