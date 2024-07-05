@@ -1,7 +1,7 @@
 ---
 name: Repository Creation
 about: Request the creation of a new repository
-title: "[Repository Creation] - NNNN"
+title: "[Repository Creation] - <Repository name>"
 labels: new_repo
 assignees: agalizia, MclTTI, sandrofioretn
 
@@ -16,10 +16,10 @@ WP: <>
 Task: <>
 
 Repository manager: <GitHub username of the repository manager>
-Collaborators: [comma separated list of collaborators' GitHub usernames]
+Collaborators: [Comma separated list of collaborators' GitHub usernames. Leave empty if none.]
 
-Visibility: 
+Visibility (put an x between [ ]): 
 - [ ] Public
 - [ ] Private
 
-Purpose (optional): [Provide a brief description of the purpose of the repository]
+Purpose (optional): [Provide a brief description of the purpose of the repository.]
