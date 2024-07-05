@@ -1,5 +1,14 @@
 Issue Number,Title,Node ID,Repository name,WP,Task,Repository manager,Collaborators,Private
-10,[Repository Creation] - test_repo,I_kwDOMO4l_86OPOUC,test_repo,1,1.1,MclTTI,"[MclTTI, agalizia]",True
-11,[Repository Creation] - test_repo_2,I_kwDOMO4l_86OPkVa,test_repo_2,1,1.3,MclTTI,"MclTTI, agalizia",True
-13,[Repository Creation] - test_repo_3,I_kwDOMO4l_86OP2ml,test_repo_3,1,1.2,MclTTI,MclTTI,True
-14,[Repository Creation] - test,I_kwDOMO4l_86Oge3k,test,2,2.3,<GitHub username of the repository manager>,[comma separated list of collaborators' GitHub usernames],False
+15,[Repository Creation] - ML_clouds,I_kwDOMO4l_86Olge_,ML_clouds,3,3.3,fedef17,,True
+19,[Repository Creation] - OrogDrag,I_kwDOMO4l_86OloN6,OrogDrag,3,3.2,GuidoDavoli,,True
+20,[Repository Creation] - SurfAlb,I_kwDOMO4l_86Olo34,SurfAlb,3,3.1,francocatalano,,True
+21,[Repository Creation] - SoilHydraulics,I_kwDOMO4l_86OlpcD,SoilHydraulics,3,3.1,daniele-peano,,True
+22,[Repository Creation] - ML_entrainment,I_kwDOMO4l_86Olp-L,ML_entrainment,3,3.3,ValerioLembo,"ValerioLembo, turbulent-lab",True
+23,[Repository Creation] - LandModelModules,I_kwDOMO4l_86OlrlM,LandModelModules,3,3.1,oxana-meteo,"GuidoDavoli, aalessan",True
+24,[Repository Creation] - BEP_BEM_Offline,I_kwDOMO4l_86Olsdr,BEP_BEM_Offline,3,3.1,gpappac,,True
+25,[Repository Creation] - aero_drag_wrf,I_kwDOMO4l_86OltGQ,aero_drag_wrf,3,3.2,antoniolita,,True
+26,[Repository Creation] - EffCover,I_kwDOMO4l_86Olt7k,EffCover,3,3.1,emandica,,True
+27,[Repository Creation] - ShyConv,I_kwDOMO4l_86OlvT2,ShyConv,3,3.2,scausio,,True
+28,[Repository Creation] - ICON-TERRA,I_kwDOMO4l_86OlxOE,ICON-TERRA,3,3.1,AngeloCampanaleCMCC,,True
+29,[Repository Creation] - WaveCurrent_regional,I_kwDOMO4l_86Olx8v,WaveCurrent_regional,3,3.2,aimie-moulin,,True
+30,[Repository Creation] - SEAS-NEMO,I_kwDOMO4l_86OlylG,SEAS-NEMO,3,3.2,francesco-maicu,,True
