@@ -11,7 +11,7 @@ assignees: agalizia, MclTTI, sandrofioretn
 
 Requested by: <Your Name>
 
-Repository name: <>
+Repository name: <Repository name>
 WP: <>
 Task: <>
 
